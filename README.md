@@ -4,7 +4,7 @@ This is a Scss compiler template using GULP.
 
 **Getting started :**
 
-- Install Gulp on your computer with the command : : ```npm i --global gulp-cli``` .
+- Install Gulp on your computer with the command : ```npm i --global gulp-cli``` .
 
 - The template is pre-configured with the different dependencies needed, but you can still the command ```npm install``` to ensure that all dependencies settle in well.
 
