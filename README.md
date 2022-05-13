@@ -1,5 +1,6 @@
-# Compiler-SCSS-with-Gulp
+# Vanilla-Compiler-SCSS
 
+  <img  style="height:150px" src="https://itexpert.fr/content/images/2020/08/sass-logo.png">
 This is a Scss compiler template using GULP.
 
 **Getting started :**
