@@ -15,7 +15,7 @@ This is a Scss compiler template using GULP, very useful for your native html ap
 
 ### Developped with :
 
-* JavaScript
+* JavaScript :)
 * Gulp
 
 ## Getting Started
